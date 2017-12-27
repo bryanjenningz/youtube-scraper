@@ -25,7 +25,7 @@ const buildDict = () => {
       }
       const dictEntry = { trad, simp, pinyin, meaning, locations };
       dict[trad] = dictEntry;
-      dict[simp] = dictEntry;
+      // dict[simp] = dictEntry;
     } catch (err) {
       console.log(err);
       console.log(`Error for entry ${i}: ${entries[i]}`);
@@ -48,4 +48,4 @@ const buildDict = () => {
 */
 
 const dict = buildDict();
-fs.writeFileSync("./sub-dictionary.json", JSON.stringify(dict));
+fs.writeFileSync("./sub-trad-dictionary.json", JSON.stringify(dict));
