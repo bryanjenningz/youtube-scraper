@@ -6154,7 +6154,6 @@
 劇烈, 剧烈 (jùliè) - violent,fierce
 駱駝, 骆驼 (luòtuó) - camel
 電廠, 电厂 (diànchǎng) - power station,station,power plant,power_plant
-
 校門, 校门 (xiàomén) - school gate
 複句, 复句 (fùjù) - sentence of two or more clauses
 率, 率 (shuài) - lead,command
